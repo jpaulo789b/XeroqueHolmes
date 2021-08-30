@@ -1,17 +1,14 @@
-# fluttergit
+# Welcome to Xeroques Holmes!
 
-A new Flutter project.
+Hi! Eu sou João Paulo e trago a vocês o projeto Xeroque Holmes, que trás uma abordagem de GraphQl em flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Flutter
 
-A few resources to get you started if this is your first Flutter project:
+Projeto feito com base no flutter na versão 2.0.4 com null-safety
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Veja imagens
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# XeroqueHolmes
+| Imagem Pesquisa | Imagem Detalhes do usuário |
+|--|--|
+| ![enter image description here](https://github.com/jpaulo789b/XeroqueHolmes/raw/main/assets/Screenshot_1630307545.png =350x) | ![enter image description here](https://github.com/jpaulo789b/XeroqueHolmes/raw/main/assets/Screenshot_1630307550.png  =350x) |
