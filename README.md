@@ -11,4 +11,4 @@ Projeto feito com base no flutter na versão 2.0.4 com null-safety
 
 | Imagem Pesquisa | Imagem Detalhes do usuário |
 |--|--|
-| ![enter image description here](https://github.com/jpaulo789b/XeroqueHolmes/raw/main/assets/Screenshot_1630307545.png =350x) | ![enter image description here](https://github.com/jpaulo789b/XeroqueHolmes/raw/main/assets/Screenshot_1630307550.png  =350x) |
+| <img src ="https://github.com/jpaulo789b/XeroqueHolmes/raw/main/assets/Screenshot_1630307545.png" height=600> | <img src="https://github.com/jpaulo789b/XeroqueHolmes/raw/main/assets/Screenshot_1630307550.png" height="600"> |
